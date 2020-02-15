@@ -377,7 +377,7 @@ Content-Type: text/html; charset=UTF-8
 * UDP
     * 一旦 UDP 携带的数据超过了 1472 （MTU - IP报头 - UDP报头 = 1500 - 20 - 8），那么在 IP 层就会对该数据分片，一旦分片就意味着增加了 UDP 传输丢包的可能性。 由于 UDP 协议传输本身就不负责可靠性，再加上分片，那么丢包的可能性就大大增加
 
-<div align=center><img width="970" height="240" src="https://github.com/qinguoyi/backEnd/blob/master/utils/mtu.png"/></div>
+<div align=center><img width="970" height="240" src="https://github.com/twomonkeyclub/BackEnd/blob/master/%E5%9F%BA%E7%A1%80%E8%AF%AD%E8%A8%80/utils/mtu.png"/></div>
 
 
 ## 对称密钥和公钥密码体制
