@@ -8,8 +8,8 @@
 
 更多资料
 ------------
-请关注公众号 **“两猿圈”**.
+请关注公众号 **“两猿社”**.
 > * **带你丰富互联网相关项目经验，轻松应对校招！！！**
 > * **项目模块详细讲解，在公众号内持续更新！！！**
 
-<div align=center><img src="https://github.com/twomonkeyclub/TinyWebServer/blob/master/root/test1.jpg" height="258"/> </div>
+<div align=center><img src="https://github.com/twomonkeyclub/TinyWebServer/blob/master/root/test1.jpg" height="350"/> </div>
